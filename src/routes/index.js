@@ -14,11 +14,11 @@ const titulosAño = require('./catalogo/get-by-año');
 
 // Configuro rutas
 router.post('/catalogo', crearTitulo); //POST
-router.put('/catalogo', updateTitulo); //PUT
-router.delete('/catalogo', deleteTitulo); //DELETE 
+router.put('/catalogo/:id', updateTitulo); //PUT
+router.delete('/catalogo/:id', deleteTitulo); //DELETE 
 router.get('/catalogo', catalogo); //GET All
-router.get('/catalogo/:id', tituloID); //GET One 
-router.get('/catalogo/:autor', titulosAutor); //GET según Autor
-router.get('/catalogo/:año', titulosAño); //GET según Año
+router.get('/catalogo/id/:id', tituloID); //GET One 
+router.get('/catalogo/autor/:autor', titulosAutor); //GET según Autor
+router.get('/catalogo/año/:año', titulosAño); //GET según Año
 
 module.exports = router;
