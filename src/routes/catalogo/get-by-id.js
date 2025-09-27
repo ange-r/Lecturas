@@ -3,7 +3,7 @@ const router = express.Router();
 const {textos} = require('../../models/texto')
 
 // Find by Primary Key (Búsqueda por ID)
-router.get('/:id', async (req, res) => {
+router.get('/', async (req, res) => {
     try {
         const tituloID = req.params.id;
         const resultado = await textos.findByPk(tituloID);

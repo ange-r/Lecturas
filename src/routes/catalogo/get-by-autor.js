@@ -4,7 +4,7 @@ const {textos} = require('../../models/texto')
 const { Op } = require('sequelize');
 
 // Find All (búsqueda por autor)
-router.get('/autor/:autor', async (req, res) => {
+router.get('/', async (req, res) => {
     try {
         const nombreAutor = req.params.autor;
         const resultado = await textos.findAll({

@@ -3,7 +3,7 @@ const router = express.Router();
 const textos = require('../../models/texto')
 
 // Find All
-router.get('/catalogo', async (req, res) => {
+router.get('/', async (req, res) => {
     try {
         const resultado = await textos.findAll( {
             attributes: [ ['id', 'ID'], ['titulo', 'Título'], ['autor', 'Autor/a'], ['pais', 'País'], ['año', 'Año'], ['genero', 'Género'], ['texto', ' '] ],

@@ -3,7 +3,7 @@ const router = express.Router();
 const {textos} = require('../../models/texto')
 
 // Find All (búsqueda por año)
-router.get('/año/:año', async (req, res) => {
+router.get('/', async (req, res) => {
     try {
         const año = req.params.año;
         const resultado = await textos.findAll({
