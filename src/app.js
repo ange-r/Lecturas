@@ -4,7 +4,7 @@ const path = require('path');
 const dotenv = require('dotenv');
     dotenv.config();
 const { conectar, desconectar } = require('./database');
-const routes = require('./routes/index');
+const router = require('./routes/index');
 
 const PORT = process.env.PORT || 3009
 
@@ -12,28 +12,27 @@ app.use(express.json());
 
 app.get('/', (req, res) => {
         res.json({
-        message: "API de Textos",
-        rutas_disponibles: {
-            textos: {
-                "GET /catalogo": "Muestra todos los títulos",
-                "GET /catalogo/:id": "Muestra título por ID",
-                "GET /catalogo/autor/:autor": "Muestra titulos por autor",
-                "GET /catalogo/año/:año": "Muestra titulos por año",               
-                "POST /catalogo": "Crear nuevo titulo",
-                "PUT /catalogo/:id": "Actualizar título",
-                "DELETE /catalogo/:id": "Eliminar titulo"
+        mensaje: "Bienvenido a la API de Textos Literarios",
+        endpoints: {
+            "CONSULTAS (GET)": {
+                "/catalogo": "Todos los textos",
+                "/catalogo/id/:id": "Texto por ID específico",
+                "/catalogo/autor/:nombre": "Textos por autor (búsqueda parcial)",
+                "/catalogo/año/:año": "Textos por año de publicación"
             },
-            catalogo: {
-                "GET /catalogo": "Lista completa del catálogo",
-                "GET /catalogo/autor/:autor": "Buscar por autor",
-                "GET /catalogo/genero/:genero": "Buscar por género",
-                "GET /catalogo/año/:año": "Buscar por año"
+            "GESTIÓN (POST/PUT/DELETE)": {
+                "POST /catalogo": "Agregar nuevo texto",
+                "PUT /catalogo/:id": "Modificar texto existente", 
+                "DELETE /catalogo/:id": "Eliminar texto"
             }
-        }
+        },
+        ejemplo: "http://localhost:3008/catalogo/autor/garcia",
+        nota: "Reemplaza '/:id' - '/:autor' - '/:año' con valores reales"
+    
     });
 });
 
-app.use('/', routes) // Manejo Endpoints
+app.use('/', router) // Manejo Endpoints
 
 
 // Middleware ERROR 404
