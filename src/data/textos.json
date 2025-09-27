@@ -1,20 +1,50 @@
-{
-  "textos": [
-    {
-      "titulo": "Cien años de soledad",
-      "autor": "Gabriel García Márquez",
-      "genero": "Realismo Mágico",
-      "año": 1967,
-      "pais": "Colombia",
-      "texto": "Muchos años después, frente al pelotón de fusilamiento..."
-    },
-    {
-      "titulo": "1984",
-      "autor": "George Orwell",
-      "genero": "Distopía", 
-      "año": 1949,
-      "pais": "Reino Unido",
-      "texto": "Era un día frío y brillante de abril..."
-    }
-  ]
-}
+[
+  {
+    "titulo": "Frankenstein",
+    "autor": "Mary Shelley",
+    "genero": "Ciencia Ficción Gótica",
+    "año": 1818,
+    "pais": "Reino Unido",
+    "texto": "Frankenstein o el moderno Prometeo es una obra pionera de la ciencia ficción que narra la historia de Victor Frankenstein, un joven científico obsesionado con descubrir el secreto de la vida. Tras años de investigación, logra crear un ser a partir de la recomposición de cadáveres, pero al ver el monstruo que ha creado, huye aterrorizado. La criatura, abandonada y rechazada por su creador, deambula por el mundo buscando comprensión y afecto, pero solo encuentra el miedo y el rechazo de los humanos. A medida que crece su soledad y amargura, el monstruo desarrolla un profundo resentimiento hacia Frankenstein y jura vengarse de él. La novela explora temas profundos como la responsabilidad científica, la naturaleza del mal, el rechazo social y los límites de la ambición humana. A través de una estructura narrativa compleja que incluye cartas y múltiples perspectivas, Shelley plantea preguntas fundamentales sobre la creación, la moralidad y las consecuencias de jugar a ser Dios. La obra se desarrolla en diversos escenarios europeos, desde Ginebra hasta las heladas tierras del Ártico, creando una atmósfera gótica que refleja la angustia existencial de los personajes. Frankenstein representa una crítica a la Ilustración y al exceso de confianza en la razón humana, mostrando cómo la ambición desmedida puede llevar a la destrucción tanto personal como de quienes nos rodean. La relación entre creador y criatura se convierte en una metáfora de las responsabilidades parentales y sociales, así como de la lucha interna entre la naturaleza y la crianza. La novela mantiene su relevancia contemporánea al abordar cuestiones éticas relacionadas con los avances científicos y tecnológicos, sirviendo como advertencia atemporal sobre los peligros de la innovación sin consideración moral. La prosa de Shelley combina elementos románticos con reflexiones filosóficas profundas, creando una obra que trasciende el género gótico para convertirse en un examen perdurable de la condición humana y sus dilemas morales más complejos."
+  },
+  {
+    "titulo": "Cumbres Borrascosas",
+    "autor": "Emily Brontë",
+    "genero": "Novela Gótica",
+    "año": 1847,
+    "pais": "Reino Unido",
+    "texto": "Cumbres Borrascosas es una poderosa historia de amor, venganza y obsesión ambientada en los sombríos páramos de Yorkshire. La novela gira en torno a la intensa y destructiva relación entre Catherine Earnshaw y Heathcliff, un niño gitano adoptado por la familia. A través de una narrativa no lineal contada por múltiples testigos, Brontë teje una compleja red de pasiones que trasciende generaciones. La historia comienza con el relato del Sr. Lockwood, quien alquila la Gruta de los Tordos y visita Cumbres Borrascosas, donde descubre la turbulenta historia de sus habitantes. La relación entre Catherine y Heathcliff se desarrolla en un ambiente de violencia emocional y social, donde las diferencias de clase y las convenciones sociales actúan como barreras insuperables. Cuando Catherine decide casarse con el refinado Edgar Linton traicionando sus sentimientos por Heathcliff, desencadena una cadena de eventos vengativos que afectará a las dos familias durante décadas. Heathcliff, consumido por el rencor y el amor no correspondido, elabora un elaborado plan de venganza que involucra a la siguiente generación. La novela explora temas de amor posesivo, violencia doméstica, venganza transgeneracional y la naturaleza dual del ser humano. El paisaje de los páramos funciona como un personaje más, reflejando las tormentas emocionales de los protagonistas. Brontë desafía las convenciones literarias de su época al presentar personajes moralmente ambiguos y relaciones complejas que escapan a las categorías tradicionales del bien y el mal. La estructura narrativa innovadora, que emplea múltiples narradores y saltos temporales, añade capas de complejidad a esta exploración de las pasiones humanas en su estado más primitivo y destructivo. Cumbres Borrascosas permanece como una de las obras más originales y perturbadoras de la literatura inglesa, un estudio profundo de cómo el amor puede convertirse en obsesión y la venganza en una fuerza autodestructiva."
+  },
+  {
+    "titulo": "Orgullo y Prejuicio",
+    "autor": "Jane Austen",
+    "genero": "Novela Romántica",
+    "año": 1813,
+    "pais": "Reino Unido",
+    "texto": "Orgullo y Prejuicio es una aguda comedia de costumbres que sigue la historia de Elizabeth Bennet, la segunda de cinco hermanas en una familia de clase media en la Inglaterra rural del siglo XIX. La novela comienza con la llegada del rico y apuesto Sr. Darcy y su amigo el Sr. Bingley al vecindario, evento que despierta grandes expectativas en la comunidad y especialmente en la Sra. Bennet, obsesionada con casar a sus hijas con hombres adinerados. Elizabeth, inteligente, observadora y con un fuerte sentido de la independencia, inicialmente forma una mala impresión de Darcy debido a su orgullo y aparente arrogancia. A través de una serie de encuentros y malentendidos, la relación entre Elizabeth y Darcy se desarrolla como un complejo juego de atracción y rechazo. Austen utiliza su característica ironía para criticar las convenciones sociales de la época, particularly el matrimonio como transacción económica y las limitaciones impuestas a las mujeres. La novela explora temas de crecimiento personal, auto conocimiento y la superación de las primeras impresiones. Elizabeth debe confrontar sus propios prejuicios mientras Darcy aprende a superar su orgullo de clase. Los personajes secundarios, como el obsequioso Mr. Collins y la manipuladora Lady Catherine de Bourgh, añaden capas de sátira social y contraste con los protagonistas. La prosa de Austen combina agudeza psicológica con humor sutil, creando un retrato vívido de la sociedad georgiana y sus complejidades. La evolución de la relación entre Elizabeth y Darcy representa no solo una historia de amor, sino un proceso de maduración moral y emocional donde ambos personajes deben enfrentar sus defectos y aprender a valorar las cualidades del otro más allá de las apariencias y convenciones sociales. Orgullo y Prejuicio permanece como una obra maestra de la literatura universal, celebrada por su ingenio, profundidad psicológica y atemporal exploración de las relaciones humanas."
+  },
+  {
+    "titulo": "Jane Eyre",
+    "autor": "Charlotte Brontë",
+    "genero": "Novela Gótica",
+    "año": 1847,
+    "pais": "Reino Unido",
+    "texto": "Jane Eyre es una novela de formación que narra la vida de su protagonista desde su infancia como huérfana maltratada hasta su madurez como mujer independiente. La historia comienza en Gateshead, donde Jane vive con su tía y primos que la tratan con crueldad. Su carácter fuerte y sentido de la justicia se manifiestan tempranamente cuando se rebela contra la injusticia, lo que lleva a su envío al austero internado de Lowood. Allí, a pesar de las duras condiciones, Jane recibe educación y forja amistades significativas que moldean su carácter. Al convertirse en institutriz en Thornfield Hall, Jane conoce al misterioso y atormentado Sr. Rochester, dueño de la mansión y tutor de su pupila Adèle. La relación entre Jane y Rochester se desarrolla a través de conversaciones intelectuales y una creciente atracción mutua que desafía las diferencias de clase y edad. La novela alcanza su punto culminante cuando, en la víspera de su boda, Jane descubre que Rochester tiene una esposa loca, Bertha Mason, encerrada en el ático de Thornfield. Frente a la tentación de convertirse en amante de Rochester, Jane elige mantener su integridad moral y huye, iniciando un período de dificultades y autodescubrimiento. Brontë explora temas de independencia femenina, igualdad en las relaciones, moralidad personal y la búsqueda de identidad. Jane Eyre representa un hito en la literatura feminista por presentar una heroína que valora su autonomía y principios por encima del comfort económico y las convenciones sociales. La novela combina elementos góticos con realismo social, creando una narrativa psicológicamente compleja que examina la lucha entre la pasión y la razón, el deseo y el deber. La voz narrativa en primera persona de Jane permite una intimidad única con sus pensamientos y emociones, haciendo de su viaje de autodescubrimiento una experiencia profundamente conmovedora. Jane Eyre permanece como un poderoso testimonio de la fuerza del carácter individual frente a la adversidad social y personal."
+  },
+  {
+    "titulo": "La campana de cristal",
+    "autor": "Sylvia Plath",
+    "genero": "Novela Autobiográfica",
+    "año": 1963,
+    "pais": "Estados Unidos",
+    "texto": "La campana de cristal es una novela semiautobiográfica que sigue la vida de Esther Greenwood, una joven brillante que gana una pasantía en una prestigiosa revista de moda en Nueva York durante el verano de 1953. A través de los ojos de Esther, Plath explora la presión social sobre las mujeres jóvenes en la década de 1950 y la lucha por mantener la identidad individual frente a expectativas convencionales. Esther, despite su éxito académico y talento literario, experimenta una creciente desconexión con el mundo que la rodea, sintiéndose atrapada bajo una 'campana de cristal' que la separa de la vida real. La novela detalla su progresivo descenso into la depresión y su lucha con ideas suicidas, reflejando la propia experiencia de Plath con la enfermedad mental. A través de imágenes poderosas y una prosa lírica, Plath captura la angustia existencial de una mujer inteligente que se siente limitada por las opciones que la sociedad le ofrece: matrimonio, maternidad o carreras subordinadas. Esther rechaza el camino tradicional representado por su madre y otras figuras femeninas, pero no encuentra alternativas satisfactorias en un mundo que valora a las mujeres por su apariencia y conformidad. La novela aborda temas de identidad femenina, creatividad sofocada, salud mental y la hipocresía social respecto a la sexualidad femenina. Las experiencias de Esther con tratamientos psiquiátricos, including electroshock therapy, ofrecen una crítica mordaz al sistema de salud mental de la época. Plath utiliza un estilo narrativo que combina el realismo con elementos surrealistas, reflejando la percepción distorsionada de Esther durante sus episodios depresivos. La campana de cristal se ha convertido en un texto fundamental del feminismo y un estudio profundamente conmovedor de la fragilidad mental, destacando por su honestidad brutal sobre temas que eran tabú en su tiempo. La obra permanece como un testimonio poderoso de la lucha por la autenticidad en un mundo que premia la superficialidad."
+  },
+  {
+  "titulo": "La mujer habitada",
+  "autor": "Gioconda Belli",
+  "genero": "Novela Política",
+  "año": 1988,
+  "pais": "Nicaragua",
+  "texto": "La mujer habitada es una poderosa novela que entrelaza dos historias separadas por siglos pero unidas por la lucha por la libertad. Por un lado, sigue la historia de Lavinia, una joven arquitecta de clase alta que regresa a su país latinoamericano (claramente inspirado en Nicaragua) después de estudiar en Europa, y por otro, la historia de Itzá, una mujer indígena que luchó contra los conquistadores españoles siglos atrás. La narrativa alterna entre ambas épocas, mostrando paralelos sorprendentes entre las luchas anticoloniales del pasado y la resistencia contra la dictadura en el presente. A través de Lavinia, Belli explora el despertar político de una mujer privilegiada que gradualmente toma conciencia de las injusticias sociales en su país y decide unirse a la lucha revolucionaria. Itzá, cuyo espíritu parece habitar un naranjo en el jardín de Lavinia, representa la continuidad de la resistencia femenina a través de la historia. La novela examina temas de identidad nacional, compromiso político, amor revolucionario y la búsqueda de autenticidad personal en contextos de opresión. Belli, drawing de su propia experiencia en el Frente Sandinista, ofrece un retrato vívido de la vida clandestina, los riesgos de la militancia y las complejas relaciones personales que se desarrollan en medio de la lucha política. La obra es también una exploración del feminismo revolucionario, mostrando cómo Lavinia descubre su fuerza como mujer al mismo tiempo que desarrolla su conciencia política. La prosa de Belli combina el realismo mágico con una narrativa política intensa, creando un mundo donde lo espiritual y lo revolucionario se entrelazan naturalmente. Los elementos mágicos, como la conexión entre Lavinia e Itzá, sirven para subrayar la importancia de la memoria histórica y la continuidad de las luchas por la liberación. La novela aborda también las tensiones entre el amor personal y el compromiso político, mostrando cómo las relaciones se transforman en contextos de crisis social. Belli ofrece una perspectiva única sobre la Revolución Sandinista desde la experiencia femenina, destacando el papel crucial de las mujeres en los movimientos de liberación mientras critica el machismo persistente dentro de las organizaciones revolucionarias. La mujer habitada se ha convertido en un clásico de la literatura centroamericana, celebrado por su capacidad para fusionar lo personal con lo político y por su contribución a la literatura feminista latinoamericana."
+  }
+]
