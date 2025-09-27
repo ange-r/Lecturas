@@ -13,13 +13,12 @@ const titulosAño = require('./catalogo/get-by-año');
 // Completar busqueda por genero - pais
 
 // Configuro rutas
-router.use('/catalogo', crearTitulo); //POST
-router.use('/catalogo', updateTitulo); //PUT
-router.use('/catalogo', deleteTitulo); //DELETE 
-router.use('/catalogo', catalogo); //GET All
-router.use('/catalogo/:id', tituloID); //GET One 
-router.use('/catalogo/:autor', titulosAutor); //GET según Autor
-router.use('/catalogo/:año', titulosAño); //GET según Año
-
+router.post('/catalogo', crearTitulo); //POST
+router.put('/catalogo', updateTitulo); //PUT
+router.delete('/catalogo', deleteTitulo); //DELETE 
+router.get('/catalogo', catalogo); //GET All
+router.get('/catalogo/:id', tituloID); //GET One 
+router.get('/catalogo/:autor', titulosAutor); //GET según Autor
+router.get('/catalogo/:año', titulosAño); //GET según Año
 
 module.exports = router;
